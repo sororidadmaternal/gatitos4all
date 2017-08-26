@@ -43,3 +43,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Gracias a CATAAS por su fantástico servicio
 * Gracias al señor de los tacos que me dio fuerza para escribir este código
+
+# NEXT
+1 https://www.hackerrank.com/challenges/time-conversion
+2 https://www.hackerrank.com/challenges/mini-max-sum
+3 https://www.hackerrank.com/challenges/birthday-cake-candles
